@@ -1,6 +1,6 @@
 # Hey, I'm Eduardo 👋
 
-Welcome to my GitHub profile! I'm a passionate backend developer with a knack for turning ideas into functional and seamless web applications. My expertise lies in crafting innovative solutions using modern technologies. Here's a little about me:
+Welcome to my GitHub profile! I'm a passionate fullstack developer with a knack for turning ideas into functional and seamless web applications. My expertise lies in crafting innovative solutions using modern technologies. Here's a little about me:
 
 ## About Me
 
@@ -20,6 +20,7 @@ I thrive on creating user-centric experiences that leverage the power of technol
 ## Skills
 
 - Backend Development
+- Frontend Architecture
 - Project Leadership
 - API Design and Development
 - Data Modeling
